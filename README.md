@@ -99,3 +99,9 @@
     export http_proxy=http://127.0.0.1:8123
     export https_proxy=http://127.0.0.1:8123
     export ftp_proxy=http://127.0.0.1:8123
+
+参考连接:
+
+http://swwyl.cn/article/11
+
+https://blog.csdn.net/beckhans/article/details/89243897
